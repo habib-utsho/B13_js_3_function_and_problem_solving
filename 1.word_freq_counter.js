@@ -3,6 +3,8 @@
 // Ignore case differences
 // Ignore extra spaces
 
+
+
 function wordFrequency(sentence) {
   let words = sentence.split(" ");
   console.log(words);
